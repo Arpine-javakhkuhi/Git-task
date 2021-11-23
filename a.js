@@ -1,2 +1,2 @@
-let task = 'New task';
+let task = 'New task for me';
 let htmltask = 'Waiting for result';
